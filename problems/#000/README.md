@@ -15,10 +15,6 @@ Square each integer and accumulate the result using a 64-bit unsigned integer (`
 - **Time:** O(n)
 - **Space:** O(1)
 
-## Result
-
-[Insert your calculated result]
-
 ## Language
 
 C++20
